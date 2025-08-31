@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#first-paragraph{
+    background-color: red;
+}
+
+#second-paragraph{
+    background-color: yellow;
+}
+
+#third-paragraph{
+    background-color: green
+}
+
+#span-1{
+    color: blue;
+    background-color: pink;
+}
+
+#span-2{
+    color: white;
+    background-color: navy;
+}
+
+#span-3{
+    color: brown;
+    background-color: black;
+}
+
+#span-4{
+    color: aqua;
+    background-color: orange;
+}
+
+#span-5{
+    color: purple;
+    background-color: white;
+}
+
+#span-6{
+    color: rgb(4, 255, 234);
+    background-color: grey;
+}

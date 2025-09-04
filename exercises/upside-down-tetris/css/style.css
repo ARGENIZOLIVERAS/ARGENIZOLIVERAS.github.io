@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#container {
+    width: 500px;
+    height: 100vh;
+    background-color: rgb(48, 48, 48);
+    font-size: 0px;
+}
+
+.pink {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: hotpink;
+    /* display: inline-block; */
+}
+
+.blue {
+    background-color: blue;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+.green {
+    background-color: green;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+.orange {
+    background-color: orange;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}

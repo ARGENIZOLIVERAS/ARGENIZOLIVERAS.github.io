@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+div {
+    margin: 24px auto;
+    width: 300px;
+    text-align: center;
+}
+
+div {
+    margin: 24px;
+    border: 10px solid green;
+    border-color: red;
+    border-width: 1px;
+    border-style: dashed;
+    border-top-color: blue;
+    border-top-width: 10px;
+    border-top-style: dotted;
+}
+
+h1 {
+    border-bottom: 2px solid black;
+    padding-bottom: 24px;
+}

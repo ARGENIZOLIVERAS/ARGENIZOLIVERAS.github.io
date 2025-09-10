@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.button {
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.button.simple {
+    border: 1px solid black;
+    margin: 8px;
+    border-radius: 4px;
+    padding: 4px;
+    background-color: lightgray;
+}
+
+.button.background{
+    background-color: rgb(9, 9, 161);
+    color: white;
+    padding: 24px;
+    border-radius: 36px;
+    margin: 8px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.button.border {
+    color: darkgreen;
+    border: 3px solid darkgreen;
+    margin: 8px;
+    padding: 12px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}

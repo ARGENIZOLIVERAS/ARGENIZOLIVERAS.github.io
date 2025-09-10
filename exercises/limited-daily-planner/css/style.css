@@ -1,0 +1,89 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#morning
+#afternoon
+#evening {
+    padding: 24px;
+    padding-top: 5px;
+    margin: 24px;
+}
+
+#morning {
+    background-color: rgb(228, 152, 228);
+}
+
+#afternoon {
+    background-color: rgb(19, 185, 72);
+}
+
+#evening {
+    background-color: rgb(231, 231, 33);
+}
+
+#morning .completed {
+    text-decoration: line-through;
+}
+#afternoon .completed {
+    text-decoration: line-through;
+}
+#evening .completed {
+    text-decoration: line-through;
+}
+
+#morning .completed {
+    font-weight: bold;
+    color: red;
+}
+#afternoon .completed {
+    font-weight: bold;
+    color: red;
+}
+#evening .completed {
+    font-weight: bold;
+    color: red;
+}
+
+#morning .completed.important {
+    background-color: 0, 0, 0, 0, 12;
+}
+#afternoon .completed.important {
+    background-color: 0, 0, 0, 0, 12;
+}
+#evening .completed.important {
+    background-color: 0, 0, 0, 0, 12;
+}
+
+#morning .button {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    padding: 10px 15px;
+    margin: 10px;
+    background: linear-gradient(to top, cadetblue. cornskil);
+}
+#afternoon .button {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    padding: 10px 15px;
+    margin: 10px;
+    background: linear-gradient(to top, cadetblue. cornskil);
+}
+#evening .button {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    padding: 10px 15px;
+    margin: 10px;
+    background: linear-gradient(to top, cadetblue. cornskil);
+}

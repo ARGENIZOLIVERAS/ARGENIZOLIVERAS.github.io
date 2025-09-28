@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+    background-color: rgb(11, 46, 64);
+    padding: 0;
+
+}
+
+.header {
+    text-align: center;
+}
+
+.center-column {
+    background-color: rgb(2, 107, 143);
+    max-width: 900px;
+    margin: 0px auto;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    background-image: url(../images/football\ field.jpg);
+}
+
+img {
+    width: 500px;
+}
+
+.side-by-side {
+    display: inline-block;
+    width: 49%;
+}
+
+.side-by-side img {
+    padding-left: 36px;
+    width: 100%;
+}
+
+.side-by-side a {
+    border-radius: 15px;
+    color: black;
+    text-decoration: none;
+    border: 8px solid gold;
+    height: 30px;
+    background-color: gold;
+}
+
+.center-column h1 {
+    color: gold;
+}
+
+.content h3 {
+    color: gold;
+}
+
+#call {
+    padding: 12px;
+    padding: 24px 24px;
+    padding-left: 24px;
+    color: white;  
+}
+
+.center-column h4 {
+    color: white;
+}

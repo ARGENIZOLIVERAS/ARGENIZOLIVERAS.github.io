@@ -6,3 +6,14 @@ body {
     margin: 0px;
     font-family: sans-serif;
 }
+
+#hero {                                                             
+    background-image: url(../images/round-smooth-turns-290466.webp);                        
+    background-size: cover;                                                     
+    background-position: center center; 
+    display: flex;                                                              
+    align-items: center;                                                        
+    justify-content: flex-end;                                     
+    height: 90vh;                                                                                                               
+    padding: 10%;                                                               
+}

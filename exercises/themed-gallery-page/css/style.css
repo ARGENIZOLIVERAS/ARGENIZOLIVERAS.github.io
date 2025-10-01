@@ -43,16 +43,3 @@ body {
     width: 500px;                                                               
 } 
 
-#navbar {                                                                       
-    background-color: #282c60;                                                  
-    border-bottom: 10px solid gold;                                             
-    display: flex;                                                            
-    justify-content: center;                                                    
-}  
-
-#navbar a {                                                                     
-    color: gold;                                                             
-    text-decoration: none;                                                      
-    padding: 24px 48px;                                                         
-    font-size: 32px;                                                         
-} 
